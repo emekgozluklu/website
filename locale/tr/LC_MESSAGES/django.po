@@ -656,7 +656,7 @@ msgstr "İTÜ Özgür Yazılım Kulübü"
 
 #: web/templates/index.html:12
 msgid "Free as in Freedom"
-msgstr "Free as in Freedom"
+msgstr "Free as ın Freedom"
 
 #: web/templates/index.html:26
 msgid "Coming soon..."
